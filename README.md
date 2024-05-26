@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Roberto😊
-- 👀 I’m interested in Mobile app development and ML
 - 🌱 I’m currently learning PROGRAMMING.
 - 💞️ I’m looking to collaborate on start off ideas 
 - 📫 How to reach me;ardanroberto@gmail.com
