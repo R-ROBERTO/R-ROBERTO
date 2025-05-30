@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roberto😊
 - 🌱 I’m currently learning PROGRAMMING.
 - 💞️ I’m looking to collaborate on start off ideas 
-- 📫 How to reach me;ardanroberto@gmail.com
+
 
 <!---
 R-ROBERTO/R-ROBERTO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
