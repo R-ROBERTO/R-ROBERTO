@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Roberto😊
-- 🌱 I’m currently learning PROGRAMMING.
-- 💞️ I’m looking to collaborate on start off ideas 
+👋 Hi, I’m @Robson!
+
+💻 Backend Developer proficient in Python and Django.
+
+🤖 Aspiring AI & Machine Learning enthusiast, currently deepening my knowledge in these areas.
+
+🌱 Always eager to learn, grow, and contribute to innovative projects.
+
+💞️ Looking to collaborate on backend systems, AI/ML projects, and startup ideas.
 
 
 <!---
